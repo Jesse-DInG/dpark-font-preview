@@ -1,0 +1,7 @@
+node_modules
+dist
+.idea
+desktop.int
+.DS_STORE
+*.log
+*.bak
